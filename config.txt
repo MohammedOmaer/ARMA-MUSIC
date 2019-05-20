@@ -1,5 +1,5 @@
-owner=318857032964767744
-prefix=1
+owner=568122402844966933
+prefix=L
 game=1play
 stayinchannel=true
 songinstatus=false
